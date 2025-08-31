@@ -1,2 +1,2 @@
 # Numpy
-This repository contains learning materials for Numpy Lib
+This repository contains learning materials for Numpy Lib!
